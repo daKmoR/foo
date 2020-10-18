@@ -2,6 +2,9 @@
   "name": "@d4kmor/foo",
   "version": "0.0.1",
   "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.js",
   "scripts": {
     "build": "echo 'building...'",
