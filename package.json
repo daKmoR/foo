@@ -10,7 +10,7 @@
     "build": "echo 'building...'",
     "lint": "echo 'linting...'",
     "test": "echo 'testing...'",
-    "release": "standard-version && git push --follow-tags origin master && npm publish",
+    "release": "standard-version && git push --follow-tags origin master && npm publish"
   },
   "keywords": [],
   "author": "",
