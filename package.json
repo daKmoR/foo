@@ -1,6 +1,6 @@
 {
   "name": "@d4kmor/foo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -13,5 +13,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  }
 }
