@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/daKmoR/foo/compare/v0.0.10...v0.1.0) (2020-10-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* do it
+
+### Features
+
+* minor bump ([74ff4e0](https://github.com/daKmoR/foo/commit/74ff4e009e70675f838f8b9058fbfb97117eb8e3))
+
 ### [0.0.10](https://github.com/daKmoR/foo/compare/v0.0.9...v0.0.10) (2020-10-18)
 
 
