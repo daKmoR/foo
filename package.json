@@ -1,6 +1,6 @@
 {
   "name": "@d4kmor/foo",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -10,7 +10,7 @@
     "build": "echo 'building...'",
     "lint": "echo 'linting...'",
     "test": "echo 'testing...'",
-    "release": "standard-version"
+    "release": "standard-version && git push --follow-tags origin master && npm publish"
   },
   "keywords": [],
   "author": "",
