@@ -1,0 +1,14 @@
+{
+  "name": "@d4kmor/foo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'building...'",
+    "lint": "echo 'linting...'",
+    "test": "echo 'testing...'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
