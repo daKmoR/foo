@@ -1,6 +1,6 @@
 {
   "name": "@d4kmor/foo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -9,7 +9,8 @@
   "scripts": {
     "build": "echo 'building...'",
     "lint": "echo 'linting...'",
-    "test": "echo 'testing...'"
+    "test": "echo 'testing...'",
+    "release": "standard-version"
   },
   "keywords": [],
   "author": "",
